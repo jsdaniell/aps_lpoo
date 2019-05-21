@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\bin\Debug\Motocicleta.exe.config
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\bin\Debug\Motocicleta.exe
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\bin\Debug\Motocicleta.pdb
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\obj\Debug\Motocicleta.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\obj\Debug\Motocicleta.Properties.Resources.resources
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\obj\Debug\Motocicleta.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\obj\Debug\Motocicleta.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\obj\Debug\Motocicleta.exe
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\obj\Debug\Motocicleta.pdb
+C:\Users\Daniel\source\repos\ApsMotoForms\Motocicleta\obj\Debug\Motocicleta.Motocicleta.resources
