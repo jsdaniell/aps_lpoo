@@ -1,2 +1,2 @@
 # aps_lpoo
-Avaliação de lógica de programação orientada á objetos em C#.
+Avaliação de lógica de programação orientada a objetos em C#.
